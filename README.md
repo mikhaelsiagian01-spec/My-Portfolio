@@ -1,5 +1,3 @@
-# Personal Portfolio Website
-
 # Project Structure
 ```text
 ├── index.html          # Main HTML file
