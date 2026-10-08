@@ -1,3 +1,6 @@
+# My Website
+A website about my portfolio
+
 # Project Structure
 ```text
 ├── index.html          # Main HTML file
