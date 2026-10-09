@@ -1,5 +1,5 @@
 # My Website
-A website about my portfolio
+A website for my portfolio
 
 # Project Structure
 ```text
